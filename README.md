@@ -1,4 +1,4 @@
-# NEXUS- O Paralegal Digital
+# NEXUS - O Paralegal Digital
  
 # Framework Unificado do Nexus - O Paralegal Digital (Versão 2.2)
 ## Vamos começar
